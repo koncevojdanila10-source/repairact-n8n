@@ -1,0 +1,37 @@
+{
+  "name": "RepairAct_drafts",
+  "columns": [
+    {
+      "name": "token",
+      "type": "string"
+    },
+    {
+      "name": "chatId",
+      "type": "string"
+    },
+    {
+      "name": "payload",
+      "type": "string"
+    },
+    {
+      "name": "status",
+      "type": "string"
+    },
+    {
+      "name": "expiresAt",
+      "type": "date"
+    },
+    {
+      "name": "documentId",
+      "type": "string"
+    },
+    {
+      "name": "telegramMessageId",
+      "type": "string"
+    },
+    {
+      "name": "claimExecutionId",
+      "type": "string"
+    }
+  ]
+}

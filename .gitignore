@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+node_modules/
+*.log
+private/
+credentials/
+executions/
+*.ogg
+*.oga
+*.mp3
+*.wav
+*.m4a
